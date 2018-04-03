@@ -1,0 +1,2 @@
+Converte um número de uma base para a outra.
+Primeiro converte o número para a base 10 com a soma da comparação da distância do char de entrada com o valor dele no computador, e depois é usado o resto da divisao do número para converte na base desejada.

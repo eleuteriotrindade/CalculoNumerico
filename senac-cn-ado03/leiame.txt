@@ -1,0 +1,1 @@
+O cálculo consiste em realizar um loop em cada um dos limites(float, double e long double) de 1 à 20, onde é gerado um valor de euler que é dado por 10^i.Onde i é o valor do loop.
