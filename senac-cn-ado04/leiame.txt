@@ -1,0 +1,16 @@
+﻿bissec.f95:
+
+Realiza o cálculo do intervalo do valor de entrada, um loop é criado até o valor máximo estipulado(1000) ou 
+ao atingir a condições de parada. O ponto médio é calculado dentro deste loop, modificando o intervalo caso a condição não seja atingida e repetindo o processo
+
+
+newton.f95:
+
+É realizado um laço de 1000 iterações para o valor de entrada ou até que a condição de parada seja alcançada.
+No laço calculamos o valor da raiz buscando a chegada à condição.
+
+secante.f95:
+
+
+De acordo com a entrada, é calculado o valor de parada cumprindo uma das condições: o valor de p alcançar a entrada, 
+ou o valor de p1 - p ser menor que a tolerância
