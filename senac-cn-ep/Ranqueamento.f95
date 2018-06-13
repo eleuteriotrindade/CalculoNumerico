@@ -1,4 +1,4 @@
-!gfortran PageRank.f95 -o main
+!gfortran Ranqueamento.f95 -o main
 
 PROGRAM Ranqueamento
     implicit none
